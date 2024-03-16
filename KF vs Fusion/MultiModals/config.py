@@ -1,0 +1,9 @@
+data_dir = './avmnist' # a changer eventuellement
+batch_size= 64
+train_shuffle=True
+flatten_audio=False
+flatten_image=False
+unsqueeze_channel=True
+generate_sample=True
+normalize_image=True
+normalize_audio=True
